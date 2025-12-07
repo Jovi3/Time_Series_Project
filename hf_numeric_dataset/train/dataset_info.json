@@ -1,0 +1,42 @@
+{
+  "builder_name": "json",
+  "citation": "",
+  "config_name": "default",
+  "dataset_name": "json",
+  "dataset_size": 2925666,
+  "description": "",
+  "download_checksums": {
+    "/Users/jovitagandhi/Desktop/JoFo/Education/Masters/NYU/Subjects/Time Series /Time_Series_Project/dataset_delphyne_numeric.jsonl": {
+      "num_bytes": 3077586,
+      "checksum": null
+    }
+  },
+  "download_size": 3077586,
+  "features": {
+    "input_text": {
+      "dtype": "string",
+      "_type": "Value"
+    },
+    "target_text": {
+      "dtype": "string",
+      "_type": "Value"
+    }
+  },
+  "homepage": "",
+  "license": "",
+  "size_in_bytes": 6003252,
+  "splits": {
+    "train": {
+      "name": "train",
+      "num_bytes": 2925666,
+      "num_examples": 5064,
+      "dataset_name": "json"
+    }
+  },
+  "version": {
+    "version_str": "0.0.0",
+    "major": 0,
+    "minor": 0,
+    "patch": 0
+  }
+}

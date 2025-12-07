@@ -1,0 +1,42 @@
+{
+  "builder_name": "json",
+  "citation": "",
+  "config_name": "default",
+  "dataset_name": "json",
+  "dataset_size": 5802400,
+  "description": "",
+  "download_checksums": {
+    "/Users/jovitagandhi/Desktop/JoFo/Education/Masters/NYU/Subjects/Time Series /Time_Series_Project/dataset_gruver_digit.jsonl": {
+      "num_bytes": 5954320,
+      "checksum": null
+    }
+  },
+  "download_size": 5954320,
+  "features": {
+    "input_text": {
+      "dtype": "string",
+      "_type": "Value"
+    },
+    "target_text": {
+      "dtype": "string",
+      "_type": "Value"
+    }
+  },
+  "homepage": "",
+  "license": "",
+  "size_in_bytes": 11756720,
+  "splits": {
+    "train": {
+      "name": "train",
+      "num_bytes": 5802400,
+      "num_examples": 5064,
+      "dataset_name": "json"
+    }
+  },
+  "version": {
+    "version_str": "0.0.0",
+    "major": 0,
+    "minor": 0,
+    "patch": 0
+  }
+}
